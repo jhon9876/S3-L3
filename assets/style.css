@@ -1,0 +1,15 @@
+.sbarramento {
+  text-decoration: line-through;
+}
+
+html {
+  background-color: rgb(99, 99, 167);
+}
+
+body {
+  text-align: center;
+}
+
+li {
+  text-align: center;
+}
